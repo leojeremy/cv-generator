@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(php artisan:*)",
+      "Bash(composer require:*)",
+      "Bash(vendor/bin/pint:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
